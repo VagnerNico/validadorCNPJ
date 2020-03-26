@@ -1,3 +1,3 @@
-# Função para validar CNPJ
+# Funções para validar CNPJ e CPF
 
-Essa função feita em TypeScript faz a validação de CNPJ baseado no algoritmo da receita federal.
+Essas funções feitas em TypeScript fazem a validação de CPF e CNPJ, respectivamente, ambos baseados nos algoritmos da receita federal.
